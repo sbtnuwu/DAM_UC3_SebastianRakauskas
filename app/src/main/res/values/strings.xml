@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DAM_UC3_SebastianRakauskas</string>
+    <string name="TVCorreoElectrónico">Correo Electrónico</string>
+    <string name="TVContraseña">Contraseña</string>
+    <string name="ETCorreoElectronico" />
+    <string name="ETContraseña" />
+    <string name="CBNoCerrarSesión">No cerrar sesión</string>
+    <string name="TVOlvidadoContraseña">¿Has olvidado tu contraseña?</string>
+    <string name="TVRegistrate">Registrate</string>
+    <string name="TVGratis">Es gratis (y lo seguirá siendo)</string>
+    <string name="TVRegistrarNombre">Nombre:</string>
+    <string name="TVRegistrarApellidos">Apellidos:</string>
+    <string name="TVRegistrarCorreoElectronico">Tu dirección de correo electrónico:</string>
+    <string name="TVContraseñaNueva">Contraseña nueva:</string>
+    <string name="TVSexo">Sexo:</string>
+    <string name="TVFNacimiento">F. de Nacimiento:</string>
+    <string name="ETRegistrarCorreoElectronico" />
+    <string name="ETRegistrarNombre" />
+    <string name="ETRegistrarApellido" />
+    <string name="ETContraseñaNueva" />
+    <string name="ETRegistrarFecha" />
+</resources>
